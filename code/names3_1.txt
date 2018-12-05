@@ -1,0 +1,7 @@
+names = ['Hannah', 'Rachel', 'Stephanie']
+message = "I have not seen " + names[0] + " in far too long" + "."
+print(message)
+message = "I have not seen " + names[1] + " in far too long" + "."
+print(message)
+message = "I have not seen " + names[2] + " in far too long" + "."
+print(message)

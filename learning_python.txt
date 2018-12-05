@@ -1,0 +1,3 @@
+In Python you can create lists
+In Python you can create conditional tests and loops
+In Python you can create classes
